@@ -2,4 +2,4 @@
 
 repo for uni course (testing and code optimilization)
 
-- libraries: OpenCV (cv2)
+- libraries: OpenCV (cv2), NumPy
