@@ -32,7 +32,7 @@ INTER_L4 = cv2.resize(image, (3*h, 3*w), interpolation=cv2.INTER_LANCZOS4)
 # cv2.imshow("Zadanie 4-INTER_CUBIC", INTER_C)
 # cv2.imshow("Zadanie 4-INTER_LANCZOS4", INTER_L4)
 # cv2.waitKey(0)
-# dopisac wnioski !!
+
 
 # Zadanie 5
 resized = imutils.resize(image, width=500)
